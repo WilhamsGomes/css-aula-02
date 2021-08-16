@@ -1,0 +1,12 @@
+.font{
+    color: blueviolet;
+}
+
+p, ul{
+    font-size: 90px;
+
+}
+
+#title{
+    text-align: center;
+}
